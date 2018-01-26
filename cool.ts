@@ -7,4 +7,5 @@ export interface CoolInterface {
     dogs: Dog;
     title: string;
     items: Object;
+    food: number;
 }
